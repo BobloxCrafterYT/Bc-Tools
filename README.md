@@ -1,6 +1,12 @@
 # Bc-Tools
 Free Discord Hacks Like Nuke Or Ip Grabber! All Made By BC STUDIOS! Join Our Discord: https://discord.gg/TJnWr6ETPD
 
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.1.x   | :white_check_mark: |          |
+| 0.9.x   | :x: |
+| < 0.8   | :x:                |
+
 # How To Use
 Open BcTools.Exe Enter This Key "bsdg23aysdwae423123qsadasere3434343qwedasdfe" Then Wait 1-5 Seconds. After You will be on the main menu, there you can choose an command!
 
