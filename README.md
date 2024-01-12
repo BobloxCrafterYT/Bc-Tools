@@ -15,6 +15,9 @@ You can create a webhook url on your or an other server. click on server setting
 
 # Discord Server: https://discord.gg/TJnWr6ETPD
 
+# Realeases (Updates, Older Versions and new versions)
+https://github.com/BobloxCrafterYT/Bc-Tools/releases
+
 # Previews:
 
 https://cdn.discordapp.com/attachments/1171861055245389896/1195371588632182844/image.png?ex=65b3bf8b&is=65a14a8b&hm=52cc39884f24460c54e511a7a72da643d5a739eef891c6362707638ebe900ddd&
